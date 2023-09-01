@@ -1,0 +1,12 @@
+langchain
+chromadb
+transformers
+sentence-tranformers
+InstructorEmbedding
+streamlit
+youtube-transcript-api
+deep_translator
+langdetect
+pyPDF
+FAISS
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
