@@ -1,7 +1,7 @@
 # chat-with-website
 
 
-![Website chat Assistant Chatbot](app-screenshot.png)
+![Website chat Assistant Chatbot](app-screenshot2.png)
 
 Website chat Assistant Chatbot is a tool designed to facilitate question and answer interactions based on information extracted from websites. This chatbot enables you to ask questions about the content of a website and receive relevant answers quickly and efficiently by means of Large Language Models.
 
