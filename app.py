@@ -206,7 +206,7 @@ def free_version():
                         set_openAi_api_key(api_key_input)
 
         def launchfreeapp():
-                HUGGINGFACE_API_TOKEN = "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"
+                HUGGINGFACE_API_TOKEN = "your Huggingfaceaccesstoken" #you can get it from huggingface for free
                 model_name = "BAAI/bge-base-en"
                 encode_kwargs = {'normalize_embeddings': True}
 
